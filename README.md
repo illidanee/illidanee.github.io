@@ -1,3 +1,4 @@
+
 > Windows使用Jekyll搭建个人Blog，并发布到Github。
 
 
@@ -105,13 +106,13 @@
 安装Jekyll3.2.1版本：
 
 	gem uninstall jekyll
-	gem install jekyll 3.2.1
+	gem install jekyll -v3.2.1
 	
 ## 参考
-
 
 * [Jekyll 搭建静态博客](https://gaohaoyang.github.io/2015/02/15/create-my-blog-with-jekyll/)
 * [Jekyll在github上构建免费的Web应用](http://blog.fens.me/jekyll-bootstarp-github/)
 * [Download a cacert.pem for RailsInstaller](https://gist.github.com/fnichol/867550)（需要代理翻墙）
 * [RubyGems 镜像- Ruby China](https://gems.ruby-china.org/)
 * [liquid用法笔记](http://blog.csdn.net/dont27/article/details/38097581)
+
