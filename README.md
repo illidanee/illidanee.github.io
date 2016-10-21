@@ -24,14 +24,14 @@
 
 解压RubyDevkit到目录C:\DevKit。打开CMD进入该目录执行
 
-`ruby dk.rb init`
+	ruby dk.rb init
 	
 上面的命令生成config.yml，打开并编辑，添加Ruby的安装目录如下：
 
-`
----
-- C:\Ruby22
-`
+
+	---
+	- C:\Ruby22
+
 
 然后执行
 
@@ -113,6 +113,6 @@
 
 * [Jekyll 搭建静态博客](https://gaohaoyang.github.io/2015/02/15/create-my-blog-with-jekyll/)
 * [Jekyll在github上构建免费的Web应用](http://blog.fens.me/jekyll-bootstarp-github/)
-* [Download a cacert.pem for RailsInstaller](https://gist.github.com/fnichol/867550)
+* [Download a cacert.pem for RailsInstaller](https://gist.github.com/fnichol/867550)（需要代理翻墙）
 * [RubyGems 镜像- Ruby China](https://gems.ruby-china.org/)
 * [liquid用法笔记](http://blog.csdn.net/dont27/article/details/38097581)
