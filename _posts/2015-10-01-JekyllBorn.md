@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  JekyllBorn
+title: JekyllBorn
 categories: 
-- Born
+ - Born
 tags: 
-- Born
+ - Born
 ---
 
 * content
