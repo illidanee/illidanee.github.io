@@ -12,6 +12,8 @@
     /**
      * 内容JSON
      */
+	var demoContent = [];
+/*
     var demoContent = [{
         demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
         img_link: 'https://ooo.0o0.ooo/2016/06/20/5768c1597d1fe.png',
@@ -125,7 +127,7 @@
         core_tech: 'HTML BootStrap',
         description: '使用BootStrap仿照知乎做了一个静态页面。'
     }];
-
+*/
     contentInit(demoContent) //内容初始化
     waitImgsLoad() //等待图片加载，并执行布局初始化
 }());
