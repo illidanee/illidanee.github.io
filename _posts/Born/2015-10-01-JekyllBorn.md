@@ -22,6 +22,7 @@ tags:
 * [Rubydevkit](http://rubyinstaller.org/downloads/)
 * [Jekyll](http://jekyllrb.com/)
 * [Jekyll主题](https://github.com/Gaohaoyang/gaohaoyang.github.io)
+* [Icon](http://ico.58pic.com/pack/1467.html)
 
 ## 安装配置
 
