@@ -36,6 +36,10 @@ icon: bookmark
 
 ## C++
 
+| VS |
+| :------- |
+| [HOME](https://www.visualstudio.com/downloads/) |
+
 | SSE |
 | :------- |
 | [基于SSE指令集的程序设计简介](http://blog.csdn.net/delphihero/article/details/1270104) |
