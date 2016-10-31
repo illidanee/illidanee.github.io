@@ -25,7 +25,7 @@ icon: bookmark
 | 视频 |
 | :------- |
 | [Youtube](https://www.youtube.com/) |
-| [Youtube Converter](http://www.clipconverter.cc/)|
+| [Youtube Converter](http://www.clipconverter.cc/) |
 
 | 论坛社区 |
 | :------- |
@@ -44,9 +44,15 @@ icon: bookmark
 
 | 内存对齐 |
 | :------- |
-| [C++数据对齐#pragma和__declspec(align(n))](http://blog.csdn.net/bytxl/article/details/49330023)|
+| [C++数据对齐#pragma和__declspec(align(n))](http://blog.csdn.net/bytxl/article/details/49330023) |
 | [#pragma pack的用法及大小的计算](http://www.cppblog.com/deercoder/archive/2011/03/13/141717.html) |
 | [__declspec( align(#) )的用法和大小计算](http://www.cppblog.com/deercoder/archive/2011/03/13/141747.html) |
+
+| FFmpeg |
+| :------- |
+| [Home](https://ffmpeg.org/) |
+| [VS2013+FFMPEG开发环境搭建](http://blog.csdn.net/spaceyqy/article/details/43115391) |
+| [FFMPEG视音频编解码零基础学习方法](http://blog.csdn.net/leixiaohua1020/article/details/15811977)|
 
 ## OpenGL
 
