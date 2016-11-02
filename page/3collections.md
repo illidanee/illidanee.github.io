@@ -38,7 +38,7 @@ icon: bookmark
 
 | VS |
 | :------- |
-| [HOME](https://www.visualstudio.com/downloads/) |
+| [Home](https://www.visualstudio.com/downloads/) |
 
 | SSE |
 | :------- |
