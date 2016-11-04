@@ -14,18 +14,16 @@ icon: bookmark
 
 ## WWW
 
-| 常用网址 |
+| 个人网址 |
 | :------- |
 | [MyBlogHome](http://blog.illidan.org/) |
 | [GitHub](https://github.com/) |
-| [网易云课堂](http://study.163.com/) |
-| [欢迎回到 C++（现代 C++）](https://msdn.microsoft.com/zh-cn/library/hh279654.aspx) |
 
-
-| 视频 |
+| 超级学堂 |
 | :------- |
-| [Youtube](https://www.youtube.com/) |
-| [Youtube Converter](http://www.clipconverter.cc/) |
+| [网易云课堂](http://study.163.com/) |
+| [炼数成金](http://www.dataguru.cn/) |
+| [欢迎回到 C++（现代 C++）](https://msdn.microsoft.com/zh-cn/library/hh279654.aspx) |
 
 | 论坛社区 |
 | :------- |
