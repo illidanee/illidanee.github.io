@@ -10,65 +10,88 @@ icon: bookmark
 
 ## 说明
 
-> 个人收藏的一些精品网址
+> 平时记录的一些常用网址。方便查找。
 
-## WWW
+## Illidan
 
-| 个人网址 |
-| :------- |
-| [MyBlogHome](http://blog.illidan.org/) |
-| [GitHub](https://github.com/) |
+	这里记录的是我个人经常访问的网址。
 
-| 超级学堂 |
-| :------- |
-| [网易云课堂](http://study.163.com/) |
-| [炼数成金](http://www.dataguru.cn/) |
-| [欢迎回到 C++（现代 C++）](https://msdn.microsoft.com/zh-cn/library/hh279654.aspx) |
-
-| 论坛社区 |
-| :------- |
-| [飘云阁](http://www.chinapyg.com/) |
+> ~^o^~
+* [MyBlog](http://blog.illidan.org/)
+* [GitHub](https://github.com/)
+* [网易云课堂](http://study.163.com/)
+* [炼数成金](http://www.dataguru.cn/)
+* [欢迎回到 C++（现代 C++）](https://msdn.microsoft.com/zh-cn/library/hh279654.aspx)
+* [飘云阁](http://www.chinapyg.com/)
 
 ## Tools
+
+	这里记录的是一些常用软件工具集的网站。
+
+> 使用Jekyll在GitHub上搭建Blog
+* [Git](https://git-scm.com/)
+* [Ruby](http://rubyinstaller.org/downloads/)
+* [Rubydevkit](http://rubyinstaller.org/downloads/)
+* [Jekyll](http://jekyllrb.com/)
+* [Jekyll主题](https://github.com/Gaohaoyang/gaohaoyang.github.io)
+* [Icon](http://ico.58pic.com/pack/1467.html)
+
+> 使用Hexo在GitHub上搭建Blog
+* [Git](https://git-scm.com/)
+* [Nodejs](https://nodejs.org/en/)
+* [Hexo](https://hexo.io/)
+* [Hexo主题](https://github.com/iissnan/hexo-theme-next)
+
+> C&&C++编译环境
+* [VS](https://www.visualstudio.com/downloads/)
+* [MinGWx32](http://www.mingw.org/)
+* [MinGWx64](http://mingw-w64.org/doku.php/start)
+
 
 
 ## C++
 
-| VS |
-| :------- |
-| [Home](https://www.visualstudio.com/downloads/) |
+	这里记录的是学习C++过程中比较不错的文章。
 
-| SSE |
-| :------- |
-| [基于SSE指令集的程序设计简介](http://blog.csdn.net/delphihero/article/details/1270104) |
-| [检测CPU支持的指令SSE](http://blog.csdn.net/delphihero/article/details/411309) |
-| [SSE指令介绍及其C、C++应用](http://blog.csdn.net/delphihero/article/details/1270069) |
 
-| 内存对齐 |
-| :------- |
-| [C++数据对齐#pragma和__declspec(align(n))](http://blog.csdn.net/bytxl/article/details/49330023) |
-| [#pragma pack的用法及大小的计算](http://www.cppblog.com/deercoder/archive/2011/03/13/141717.html) |
-| [__declspec( align(#) )的用法和大小计算](http://www.cppblog.com/deercoder/archive/2011/03/13/141747.html) |
 
-| FFmpeg |
-| :------- |
-| [Home](https://ffmpeg.org/) |
-| [VS2013+FFMPEG开发环境搭建](http://blog.csdn.net/spaceyqy/article/details/43115391) |
-| [FFMPEG视音频编解码零基础学习方法](http://blog.csdn.net/leixiaohua1020/article/details/15811977)|
+> SSE
+* [基于SSE指令集的程序设计简介](http://blog.csdn.net/delphihero/article/details/1270104)
+* [检测CPU支持的指令SSE](http://blog.csdn.net/delphihero/article/details/411309)
+* [SSE指令介绍及其C、C++应用](http://blog.csdn.net/delphihero/article/details/1270069)
+
+> 内存对齐
+* [C++数据对齐#pragma和__declspec(align(n))](http://blog.csdn.net/bytxl/article/details/49330023)
+* [#pragma pack的用法及大小的计算](http://www.cppblog.com/deercoder/archive/2011/03/13/141717.html)
+* [__declspec( align(#) )的用法和大小计算](http://www.cppblog.com/deercoder/archive/2011/03/13/141747.html)
+
 
 ## OpenGL
 
 
 ## UE4
 
-| 主页&文档&问答 |
-| :------- |
-| [Home](https://www.unrealengine.com/) |
-| [Doc](https://docs.unrealengine.com/latest/INT/) |
-| [Answers](https://answers.unrealengine.com/) |
+	这里记录的是学习UE4过程中常用的网址。
 
-| 开放世界场景工具 |
-| :------- |
-| [草地工具快速指南](https://docs-origin.unrealengine.com/latest/CHN/Engine/OpenWorldTools/Grass/QuickStart/index.html) |
-| [程序化植物工具快速入门](https://docs-origin.unrealengine.com/latest/CHN/Engine/OpenWorldTools/ProceduralFoliage/QuickStart/index.html) |
+> 主页&文档&问答
+* [Home](https://www.unrealengine.com/)
+* [Doc](https://docs.unrealengine.com/latest/INT/)
+* [Answers](https://answers.unrealengine.com/)
 
+> 开放世界场景工具
+* [草地工具快速指南](https://docs-origin.unrealengine.com/latest/CHN/Engine/OpenWorldTools/Grass/QuickStart/index.html)
+* [程序化植物工具快速入门](https://docs-origin.unrealengine.com/latest/CHN/Engine/OpenWorldTools/ProceduralFoliage/QuickStart/index.html)
+
+## FFmpeg
+
+	这里记录的是学习FFmpeg过程中常用的网址。
+
+> 主页
+* [Home](https://ffmpeg.org/)
+
+> 环境配置
+* [VS2013+FFMPEG开发环境搭建](http://blog.csdn.net/spaceyqy/article/details/43115391)
+
+> 音视频编码知识
+* [FFMPEG视音频编解码零基础学习方法](http://blog.csdn.net/leixiaohua1020/article/details/15811977)
+* [音频编码解码简介](http://blog.sina.com.cn/s/blog_68fea30801017gdu.html)
