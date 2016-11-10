@@ -73,9 +73,10 @@ icon: bookmark
 
 	这里记录的是学习UE4过程中常用的网址。
 
-> 主页&文档&问答
+> 主页&文档&论坛&问答
 * [Home](https://www.unrealengine.com/)
 * [Doc](https://docs.unrealengine.com/latest/INT/)
+* [Forum](https://forums.unrealengine.com/)
 * [Answers](https://answers.unrealengine.com/)
 
 > 开放世界场景工具
@@ -86,8 +87,11 @@ icon: bookmark
 
 	这里记录的是学习FFmpeg过程中常用的网址。
 
-> 主页
+> 主页&文档&论坛
 * [Home](https://ffmpeg.org/)
+* [Doc](https://ffmpeg.org/documentation.html)
+* [Forum](https://ffmpeg.zeranoe.com/forum/)
+* [Support Forum](http://ffmpeg.gusari.org/index.php)
 
 > 环境配置
 * [VS2013+FFMPEG开发环境搭建](http://blog.csdn.net/spaceyqy/article/details/43115391)
