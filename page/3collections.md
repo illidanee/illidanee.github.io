@@ -46,7 +46,7 @@ icon: bookmark
 * [VS](https://www.visualstudio.com/downloads/)
 * [MinGWx32](http://www.mingw.org/)
 * [MinGWx64](http://mingw-w64.org/doku.php/start)
-
+* [Win7x64位中MinGW和MSYS的安装](http://blog.csdn.net/yangyangyang20092010/article/details/46350519)
 
 
 ## C++
