@@ -25,6 +25,11 @@ icon: bookmark
 * [欢迎回到 C++（现代 C++）](https://msdn.microsoft.com/zh-cn/library/hh279654.aspx)
 * [飘云阁](http://www.chinapyg.com/)
 
+> 资源
+
+* [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+* [千图网-免费图标](http://ico.58pic.com/)
+
 ## Tools
 
 	这里记录的是一些常用软件工具集的网站。
@@ -36,7 +41,7 @@ icon: bookmark
 * [Rubydevkit](http://rubyinstaller.org/downloads/)
 * [Jekyll](http://jekyllrb.com/)
 * [Jekyll主题](https://github.com/Gaohaoyang/gaohaoyang.github.io)
-* [Icon](http://ico.58pic.com/pack/1467.html)
+* [Blog Icon](http://ico.58pic.com/pack/1467.html)
 
 > 使用Hexo在GitHub上搭建Blog
 
