@@ -50,13 +50,19 @@ icon: bookmark
 * [Hexo](https://hexo.io/)
 * [Hexo主题](https://github.com/iissnan/hexo-theme-next)
 
-> C&&C++编译环境
+> Win7下搭建VS编译环境
 
 * [VS](https://www.visualstudio.com/downloads/)
+
+> Win7下搭建Msys2编译环境
+
+* [Msys2](http://msys2.github.io/)
+
+> 其他
+
+* [Win7x64位中MinGW和MSYS的安装](http://blog.csdn.net/yangyangyang20092010/article/details/46350519)
 * [MinGWx32](http://www.mingw.org/)
 * [MinGWx64](http://mingw-w64.org/doku.php/start)
-* [Win7x64位中MinGW和MSYS的安装](http://blog.csdn.net/yangyangyang20092010/article/details/46350519)
-
 
 ## C++
 
