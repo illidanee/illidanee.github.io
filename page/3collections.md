@@ -121,3 +121,7 @@ icon: bookmark
 
 * [FFMPEG视音频编解码零基础学习方法](http://blog.csdn.net/leixiaohua1020/article/details/15811977)
 * [音频编码解码简介](http://blog.sina.com.cn/s/blog_68fea30801017gdu.html)
+
+> YUV数据格式
+
+* [详解YUV数据格式](http://blog.csdn.net/beyond_cn/article/details/12998247)
