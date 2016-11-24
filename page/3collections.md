@@ -123,8 +123,11 @@ icon: bookmark
 
 > 网络
 
-* [UE4的NetWork简单原理](http://blog.csdn.net/zzk1995/article/details/50266729)
+* [如何同步 Actor](https://docs.unrealengine.com/latest/CHN/Gameplay/HowTo/Networking/ReplicateActor/index.html)
+* [远程调用函数（Replicating Functions）](https://docs.unrealengine.com/latest/CHN/Gameplay/HowTo/Networking/ReplicateFunction/index.html)
+* [同步变量](https://docs.unrealengine.com/latest/CHN/Gameplay/HowTo/Networking/ReplicateVariable/index.html)
 * [基于蓝图的多人游戏教学](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ/abmzWUWxy1U/index.html)
+* [UE4的NetWork简单原理](http://blog.csdn.net/zzk1995/article/details/50266729)
 * [UE中的常见高级类](http://www.manew.com/thread-44068-1-1.html)
 
 > 骨骼动画
