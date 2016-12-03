@@ -130,6 +130,8 @@ icon: bookmark
 * [如何同步 Actor](https://docs.unrealengine.com/latest/CHN/Gameplay/HowTo/Networking/ReplicateActor/index.html)
 * [远程调用函数（Replicating Functions）](https://docs.unrealengine.com/latest/CHN/Gameplay/HowTo/Networking/ReplicateFunction/index.html)
 * [同步变量](https://docs.unrealengine.com/latest/CHN/Gameplay/HowTo/Networking/ReplicateVariable/index.html)
+* [Actor的复制](https://docs.unrealengine.com/latest/CHN/Gameplay/Networking/Actors/index.html)
+* [在线会话节点](https://docs.unrealengine.com/latest/CHN/Engine/Blueprints/UserGuide/OnlineNodes/index.html)
 * [多人游戏中的关卡切换](https://docs.unrealengine.com/latest/CHN/Gameplay/Networking/Travelling/index.html)
 * [基于蓝图的多人游戏教学](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ/abmzWUWxy1U/index.html)
 * [UE4的NetWork简单原理](http://blog.csdn.net/zzk1995/article/details/50266729)
