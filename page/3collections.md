@@ -79,6 +79,10 @@ icon: bookmark
 
 * [VisualStudio](https://www.visualstudio.com/)
 
+> Lua
+
+* [Lua](http://www.lua.org/)
+
 ## C++
 
 	这里记录的是学习C++过程中比较不错的文章。
