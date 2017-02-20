@@ -106,6 +106,7 @@ icon: bookmark
 
 * [SOIL](http://www.lonesock.net/soil.html)
 * [Glfw](http://www.glfw.org/download.html)
+* [Glew](http://glew.sourceforge.net/index.html)
 
 ## UE4
 
