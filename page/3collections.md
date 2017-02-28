@@ -111,7 +111,7 @@ icon: bookmark
 > Study
 
 * [LearnOpenGL](https://learnopengl.com/)
-
+* [LearnOpenGL-CN](http://learnopengl-cn.readthedocs.io/zh/latest/)
 ## UE4
 
 	这里记录的是学习UE4过程中常用的网址。
